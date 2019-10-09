@@ -6,5 +6,4 @@ blablabla
 ### Headline 3
 blablablabla
 
-!(screenshot)
-https://dldnjsgh0305.github.io/DH150-2019-FALL/Screenshot.png
+(https://dldnjsgh0305.github.io/DH150-2019-FALL/Screenshot.png)
